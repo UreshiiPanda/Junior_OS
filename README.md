@@ -4,8 +4,8 @@
 
 <a name="readme-top"></a>
 
-<!-- smallsh gif -->
-![small_shell](https://github.com/UreshiiPanda/SmallShell/assets/39992411/e5b00409-8922-4c6d-b11f-c6a555ac96da)
+<!-- jos gif -->
+![jos](https://github.com/UreshiiPanda/Junior_OS/assets/39992411/0291271c-b241-4376-b677-e08151f79bb8)
 
 
 <!-- ABOUT THE PROJECT -->
